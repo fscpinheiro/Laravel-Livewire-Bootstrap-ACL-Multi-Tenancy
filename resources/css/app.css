@@ -1,0 +1,4 @@
+@import "flatpickr/dist/flatpickr.min.css";
+@import "../../vendor/power-components/livewire-powergrid/dist/powergrid.css";
+@import "../../vendor/power-components/livewire-powergrid/dist/tom-select.css";
+@import "bootstrap/dist/css/bootstrap";
